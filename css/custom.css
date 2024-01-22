@@ -1,0 +1,109 @@
+@media (max-width: 991px) {
+    .logoPortada{
+        visibility: hidden;
+        position: absolute;
+        
+    }
+  }
+
+.logoPortada{
+    width: 30%;
+    height: auto;
+    ;
+}
+#TarjetaResultados{
+    background-color: #d94141;
+    color: white;
+}
+.Escudos{
+    width: 60%;
+    height: auto;
+}
+.bg-Athletic{
+    background-color: #d11616;
+}
+.bg-Atletico{
+    background-color: #b42626;
+}
+.bg-Osasuna{
+    background-color: #5c1313;
+}
+.bg-Cadiz{
+    background-color: #c7c422;
+}
+.bg-Alaves{
+    background-color: #0e3694;
+}
+.bg-Barcelona{
+    background-color: #0508b8;
+}
+.bg-Getafe{
+    background-color: #0019a8;
+}
+.bg-Girona{
+    background-color: #b41313;
+}
+.bg-Granada{
+    background-color: #b12828;
+}
+.bg-Rayo{
+    background-color: #dbc6c6;
+}
+.bg-Celta{
+    background-color: #1d94e4;
+}
+.bg-Mallorca{
+    background-color: #970a0a;
+}
+.bg-Betis{
+    background-color: #167912;
+}
+.bg-Madrid{
+    background-color: #d6d6d6;
+}
+.bg-RealSociedad{
+    background-color: #2e2afa;
+}
+.bg-Sevilla{
+    background-color: #d62929;
+}
+.bg-Almeria{
+    background-color: #b81818;
+}
+.bg-LasPalmas{
+    background-color: #e0e422;
+}
+.bg-Valencia{
+    background-color: #e26d00;
+}
+.bg-Villareal{
+    background-color: #e8eb3b;
+}
+.bg-Foto{
+    background-image: url(../Images/fondo-textura-cesped-artificial-verde.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.Titular{
+    font-size: large;
+    color: #d94141;
+    
+}
+.Perfil{
+
+    width: 10%;
+    height: auto;
+}
+.Noticia{
+    width: 100%;
+    height: 100%;
+
+}
+.bg-Liga{
+    background-color: #d94141;
+}
+.Sponsor{
+    width: 100%;
+    height: auto;
+    
+}
